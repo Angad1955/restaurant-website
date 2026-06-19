@@ -1,0 +1,6 @@
+{
+  "name": "LUMIÈRE Artisanal Buffet",
+  "description": "An immersive culinary exhibition showcasing artisanal stations, refined narratives, and bespoke tableside reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
